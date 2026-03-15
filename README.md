@@ -1,51 +1,35 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e14,50:00bfff,100:00e676&height=200&section=header&text=Shishir%20Ghimire&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Cyber%20Security%20%7C%20Ethical%20Hacking%20%7C%20Penetration%20Testing&descSize=18&descAlignY=55&descColor=6b7b8d&animation=fadeIn"/>
+<!-- NETANIX Hacker Banner -->
+<img width="100%" src="https://raw.githubusercontent.com/shishirghimir/shishirghimir/main/netanix.png" alt="NETANIX"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00BFF7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%90+Breaking+Security+to+Build+It+Better;%F0%9F%9B%A1%EF%B8%8F+Penetration+Tester+%7C+CTF+Builder+%7C+Tool+Developer;%F0%9F%92%80+NetaNix+%7C+Netanix+Lab" alt="Typing SVG" /></a>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%24+sudo+hack+--target+world+--mode+ethical;%24+nmap+-sV+-sC+-A+reality+%7C+grep+vulnerability;%24+python3+crackvault.py+--crack+--keyword+NetaNix" alt="Typing SVG" /></a>
 
 <br/>
 
+<!-- Badges Row -->
 [![GitHub followers](https://img.shields.io/github/followers/shishirghimir?logo=github&style=for-the-badge&color=0a0e14&labelColor=131820&logoColor=00bfff)](https://github.com/shishirghimir)
 [![GitHub stars](https://img.shields.io/github/stars/shishirghimir?logo=github&style=for-the-badge&color=0a0e14&labelColor=131820&logoColor=00e676)](https://github.com/shishirghimir)
-[![Profile Views](https://komarev.com/ghpvc/?username=shishirghimir&style=for-the-badge&color=00bfff&labelColor=0a0e14&label=VIEWS)](https://github.com/shishirghimir)
+[![Profile Views](https://komarev.com/ghpvc/?username=shishirghimir&style=for-the-badge&color=00bfff&labelColor=0a0e14&label=PROFILE+VIEWS)](https://github.com/shishirghimir)
+
+<br/>
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  root@netanix:~#  Shishir Ghimire | Cyber Security | Ethical Hacker │
+│  root@netanix:~#  Alias: NetaNix | Org: Netanix Lab | Nepal 🇳🇵      │
+│  root@netanix:~#  "Break it. Fix it. Secure it."                    │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/shishirghimir/shishirghimir/main/assets/hacker.gif" alt="hacker animation"/>
-
-### `> whoami`
-
-```yaml
-name: Shishir Ghimire
-alias: NetaNix
-role: Cyber Security Researcher & Ethical Hacker
-org: Netanix Lab
-location: Nepal 🇳🇵
-focus:
-  - Penetration Testing & Red Teaming
-  - CTF Development & Pwn Challenges
-  - Exploit Development (CVEs)
-  - Security Tool Development
-  - Network Security & Firewalls
-  - Full Stack Web Development
-  - OSINT & Reconnaissance
-  - AI & Machine Learning
-currently: Building CrackVault v2 & CTF platforms
-motto: "Break it. Fix it. Secure it."
-```
-
-<br clear="right"/>
-
----
+### `> cat /etc/shishir/skills.conf`
 
 <div align="center">
-
-### ⚡ Tech Arsenal
-
-<br/>
 
 <img src="https://skillicons.dev/icons?i=python,c,js,ts,react,nodejs,html,css,linux,bash,mysql,docker&theme=dark&perline=12" alt="Skills"/>
 
@@ -72,33 +56,33 @@ motto: "Break it. Fix it. Secure it."
 
 ---
 
-### 🔥 Featured Projects
+### `> ls -la ~/projects/featured/`
 
 <div align="center">
 
 <a href="https://github.com/shishirghimir/Crack-Vault-V2">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shishirghimir&repo=Crack-Vault-V2&theme=react&bg_color=0a0e14&border_color=1e2a3a&icon_color=00bfff&title_color=00bfff&text_color=d4d4d4" alt="CrackVault V2"/>
 </a>
-<a href="https://github.com/shishirghimir/CVE-2024-53677-Exploit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shishirghimir&repo=CVE-2024-53677-Exploit&theme=react&bg_color=0a0e14&border_color=1e2a3a&icon_color=ff5252&title_color=ff5252&text_color=d4d4d4" alt="CVE Exploit"/>
-</a>
 <a href="https://github.com/shishirghimir/NPT-Network-Penetration-Testing-">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shishirghimir&repo=NPT-Network-Penetration-Testing-&theme=react&bg_color=0a0e14&border_color=1e2a3a&icon_color=00e676&title_color=00e676&text_color=d4d4d4" alt="NPT"/>
 </a>
-<a href="https://github.com/shishirghimir/Firewall">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shishirghimir&repo=Firewall&theme=react&bg_color=0a0e14&border_color=1e2a3a&icon_color=ffab40&title_color=ffab40&text_color=d4d4d4" alt="Firewall"/>
+<a href="https://github.com/shishirghimir/SecureVault_V4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shishirghimir&repo=SecureVault_V4&theme=react&bg_color=0a0e14&border_color=1e2a3a&icon_color=bb86fc&title_color=bb86fc&text_color=d4d4d4" alt="SecureVault"/>
+</a>
+<a href="https://github.com/shishirghimir/Smart-Pharma">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shishirghimir&repo=Smart-Pharma&theme=react&bg_color=0a0e14&border_color=1e2a3a&icon_color=ffab40&title_color=ffab40&text_color=d4d4d4" alt="Smart Pharma"/>
 </a>
 
 </div>
 
 ---
 
-### 🏗️ All Projects — 24 Repositories
+### `> tree ~/projects/ --all`
 
 #### 🔓 Offensive Security & Cracking Tools
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Crack-Vault-V2**](https://github.com/shishirghimir/Crack-Vault-V2) | Advanced password cracker — yescrypt, bcrypt, NTLM, SHA-crypt, shadow files, ZIP/RAR/PDF/Office/KeePass cracking with keyword priority AI engine | `Python` `C` |
+| [**Crack-Vault-V2**](https://github.com/shishirghimir/Crack-Vault-V2) | Advanced password cracker — yescrypt, bcrypt, NTLM, SHA-crypt, shadow files, ZIP/RAR/PDF/Office/KeePass with keyword priority AI engine | `Python` `C` |
 | [**Crack_Vault**](https://github.com/shishirghimir/Crack_Vault) | The original password cracker V1 — wordlist, brute force, rule-based attacks | `Python` |
 | [**CVE-2024-53677-Exploit**](https://github.com/shishirghimir/CVE-2024-53677-Exploit) | Apache Struts file upload exploit — automated Python exploit + JSP web shell | `Python` `JSP` |
 | [**NPT-Network-Penetration-Testing-**](https://github.com/shishirghimir/NPT-Network-Penetration-Testing-) | Network penetration testing suite for recon & exploitation | `Python` |
@@ -125,8 +109,8 @@ motto: "Break it. Fix it. Secure it."
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**portfolio**](https://github.com/shishirghimir/portfolio) | Netanix Portfolio website | `HTML` `CSS` `JS` |
-| **Smart-Pharma** | Full-stack pharmacy app — React, Node.js, Express, MySQL, Khalti payments, role-based auth | `JavaScript` `React` `Node.js` `MySQL` |
-| **Autoenterprise** | Car buy/sell marketplace static website | `JavaScript` |
+| **Smart-Pharma** | Full-stack pharmacy app — React, Node.js, Express, MySQL, Khalti payments | `React` `Node.js` `MySQL` |
+| **Autoenterprise** | Car buy/sell marketplace website | `JavaScript` |
 | **iosnepal** | Static website for iOS Nepal | `HTML` |
 | **crypto** | Cryptocurrency web application | `HTML` |
 | **silent_vault_frontend** | Silent Vault frontend application | `JavaScript` |
@@ -143,7 +127,7 @@ motto: "Break it. Fix it. Secure it."
 
 <div align="center">
 
-### 📊 GitHub Stats
+### `> neofetch --stats`
 
 <br/>
 
@@ -174,9 +158,9 @@ motto: "Break it. Fix it. Secure it."
 
 <div align="center">
 
-### 📈 Activity Graph
+### `> cat /var/log/activity.log`
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shishirghimir&bg_color=0a0e14&color=00bfff&line=00e676&point=ff5252&area_color=00bfff&area=true&hide_border=true&custom_title=Shishir's%20Contribution%20Activity)](https://github.com/shishirghimir)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shishirghimir&bg_color=0a0e14&color=00bfff&line=00e676&point=ff5252&area_color=00bfff&area=true&hide_border=true&custom_title=NetaNix%20Contribution%20Activity)](https://github.com/shishirghimir)
 
 </div>
 
@@ -194,46 +178,27 @@ motto: "Break it. Fix it. Secure it."
 
 <div align="center">
 
-### 💀 Hacker Metrics
+<!-- ASCII Art NETANIX Image -->
+<img width="80%" src="https://raw.githubusercontent.com/shishirghimir/shishirghimir/main/ascii-art-text.png" alt="NETANIX ASCII"/>
+
+<br/><br/>
 
 ```
-  ╔══════════════════════════════════════════════════════════╗
-  ║                                                          ║
-  ║    ███╗   ██╗███████╗████████╗ █████╗ ███╗   ██╗██╗     ║
-  ║    ████╗  ██║██╔════╝╚══██╔══╝██╔══██╗████╗  ██║╚██╗    ║
-  ║    ██╔██╗ ██║█████╗     ██║   ███████║██╔██╗ ██║ ╚██╗   ║
-  ║    ██║╚██╗██║██╔══╝     ██║   ██╔══██║██║╚██╗██║ ██╔╝   ║
-  ║    ██║ ╚████║███████╗   ██║   ██║  ██║██║ ╚████║██╔╝    ║
-  ║    ╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝     ║
-  ║                                                          ║
-  ║    Total Repositories .......... 24                      ║
-  ║    Security Tools Built ........ 6                       ║
-  ║    CTF Platforms Created ....... 3                       ║
-  ║    CVEs Exploited .............. Active                   ║
-  ║    Firewalls Developed ......... 2                       ║
-  ║    Hash Types Cracked .......... 13+                     ║
-  ║    Full Stack Apps ............. 5+                      ║
-  ║    Languages Used .............. 8+                      ║
-  ║    Lines of Code ............... 15,000+                 ║
-  ║    Coffee Consumed ............. ∞                       ║
-  ║                                                          ║
-  ╚══════════════════════════════════════════════════════════╝
+  ┌────────────────────────────────────────────────────────────────┐
+  │                                                                │
+  │   Repositories ........... 24       Security Tools ....... 6   │
+  │   CTF Platforms .......... 3        CVEs Exploited .. Active   │
+  │   Firewalls Built ........ 2        Hash Types Cracked .. 13+  │
+  │   Full Stack Apps ........ 5+       Languages ........... 8+   │
+  │   Lines of Code .......... 15,000+  Coffee .............. ∞    │
+  │                                                                │
+  └────────────────────────────────────────────────────────────────┘
 ```
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 ```
-  ┌─────────────────────────────────────────────────────┐
-  │                                                     │
-  │   "The quieter you become,                          │
-  │    the more you are able to hear."                  │
-  │                                    — Kali Linux     │
-  │                                                     │
-  └─────────────────────────────────────────────────────┘
+  "The quieter you become, the more you are able to hear." — Kali Linux
 ```
 
 <br/>
