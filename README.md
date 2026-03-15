@@ -1,14 +1,13 @@
 <div align="center">
 
-<!-- NETANIX Hacker Banner -->
-<img width="100%" src="https://raw.githubusercontent.com/shishirghimir/shishirghimir/main/netanix.png" alt="NETANIX"/>
+<!-- Animated Venom Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e14,50:00bfff,100:00e676&height=200&section=header&text=Shishir%20Ghimire&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Cyber%20Security%20%7C%20Ethical%20Hacking%20%7C%20Penetration%20Testing&descSize=18&descAlignY=55&descColor=6b7b8d&animation=fadeIn"/>
 
-<!-- Typing Animation -->
+<!-- Typing Animation — Terminal Commands -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%24+sudo+hack+--target+world+--mode+ethical;%24+nmap+-sV+-sC+-A+reality+%7C+grep+vulnerability;%24+python3+crackvault.py+--crack+--keyword+NetaNix" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- Badges Row -->
 [![GitHub followers](https://img.shields.io/github/followers/shishirghimir?logo=github&style=for-the-badge&color=0a0e14&labelColor=131820&logoColor=00bfff)](https://github.com/shishirghimir)
 [![GitHub stars](https://img.shields.io/github/stars/shishirghimir?logo=github&style=for-the-badge&color=0a0e14&labelColor=131820&logoColor=00e676)](https://github.com/shishirghimir)
 [![Profile Views](https://komarev.com/ghpvc/?username=shishirghimir&style=for-the-badge&color=00bfff&labelColor=0a0e14&label=PROFILE+VIEWS)](https://github.com/shishirghimir)
